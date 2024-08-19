@@ -1,0 +1,5 @@
+Name: Ganesh, Roll Number: 0508, Score: 4
+Name: Deepak, Roll Number: 293, Score: 5
+Name: Satya, Roll Number: 1419, Score: 3
+Name: Pavan Nikhil , Roll Number: 1024 , Score: 4
+Name: Dheeraj , Roll Number: 914 , Score: 5

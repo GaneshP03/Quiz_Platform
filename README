@@ -1,0 +1,12 @@
+# States and Capitals Quiz
+
+## Overview
+
+This project is a terminal-based quiz application written in JavaScript using Node.js. It allows a user to take a quiz on Indian states and their capitals. The user is prompted to answer a series of questions about the capitals of various Indian states. After completing the quiz, the user's score along with their name and roll number is recorded in a file named `scores.txt`.
+
+## Features
+
+- **Randomized Questions**: The quiz questions are randomly selected from a predefined list of states and their capitals.
+- **Fixed Number of Questions**: The number of questions to be asked is hardcoded to 5 although in a fully developed application we can alter the number of queestions in the quiz.
+- **Score Tracking**: After completing the quiz, the user's score is calculated and saved.
+- **File Storage**: User's name, roll number, and score are saved in a file named `scores.txt` so no need of a database connection to store the data.
